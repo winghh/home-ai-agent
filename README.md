@@ -13,12 +13,12 @@
 ## 技术栈
 - MiMo-VL-7B（端侧视觉推理）
 - MiMo-V2.5-Pro（长程决策）
-- Xiaomi Miloco（家居中间件）
+- apple homepod mini（家居中间件）
 
 ## 当前进度
 - 已完成：架构设计、Miloco环境搭建
 - 开发中：场景推理模块
-- 待接入：MiMo API（等待Token到账）
+- 待接入：（等待Token到账）
 
-## 参与小米MiMo Orbit计划
-申请邮箱：[nnxbphv@gmail.com]
+## 联系
+邮箱：[nnxbphv@gmail.com]
